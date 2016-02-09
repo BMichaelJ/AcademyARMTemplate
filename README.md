@@ -7,6 +7,4 @@
     <img src="http://armviz.io/visualizebutton.png"/>
 </a>
 
-
-https://github.com/BMichaelJ/AcademyARMTemplate/blob/master/DefaultTemplate.json
 Academy ARM Templates
