@@ -1,0 +1,2 @@
+# AcademyARMTemplate
+Academy ARM Templates
